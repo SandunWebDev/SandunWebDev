@@ -10,7 +10,7 @@
 ### Hi, I'm Sandun <img aign='left'  src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/waveEmoji.gif"  width="25px">
 
 <p align="left">
-    I am an experienced full-stack engineer who specializes in React and NodeJS, Along with competency in a wide range of web development aspects including UI & API Development, DevOps, Cloud Service Providers and Designing.
+    I am an experienced full-stack developer who specializes in React and NodeJS, Along with competency in a wide range of web development aspects including UI & API Development, DevOps, Cloud Service Providers and Designing.
 </p>
 
 <p align="left">
