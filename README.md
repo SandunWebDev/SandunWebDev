@@ -1,4 +1,6 @@
-<img src='https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/topBanner.jpg' width='100%'/>
+<a href='https://sandunwebdev.com/' target='blank'>
+    <img src='https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/topBanner.jpg' width='100%'/>
+</a>
 
 <p align="right">
     <a href="https://sandunwebdev.com/" target="blank">
@@ -14,7 +16,7 @@
 </p>
 
 <p align="left">
-    I am genuinely passionate about web development and like to make ideas into web apps with aesthetic, interactive interfaces and functional, reliable backends. Also an open-source enthusiast too. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+    I am genuinely passionate about web development and like to make ideas into web apps with aesthetic, interactive interfaces and functional, reliable backends. Also an open-source enthusiast too. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. Checkout my <a href='https://sandunwebdev.com/' target='blank'>Portfolio Site</a> for more info.
 </p>
 
 <p>
