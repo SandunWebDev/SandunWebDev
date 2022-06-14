@@ -9,7 +9,7 @@
     <a href="https://twitter.com/sandunwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title='Twitter' height="30" width="40" /></a>
 </p>
 
-### Hi, I'm Sandun <img aign='left'  src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/waveEmoji.gif"  width="25px">
+### Hi, I'm Sandun <img aign='left'  src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/waveEmoji.gif"  width="25px" height='25px'>
 
 <p align="left">
     I am an experienced full-stack developer who specializes in React and NodeJS, Along with competency in a wide range of web development aspects including UI & API Development, DevOps, Cloud Service Providers and Designing.
